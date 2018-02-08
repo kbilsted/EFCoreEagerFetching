@@ -4,7 +4,7 @@ using System.Linq;
 using System.Linq.Expressions;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
-namespace EFCoreEagerFetching.Builders
+namespace EFCoreEagerFetching
 {
     public class FluentEagerBuilder<T> where T : class
     {

@@ -51,7 +51,7 @@ public class MyContext : DbContext
 you can also use it with Direct implementations of `IEntityTypeConfiguration`. An example
 
 ```
-using EFCoreEagerFetching.Builders;
+using EFCoreEagerFetching;
 
 public class SomeMapping : IEntityTypeConfiguration<Person>
 {
