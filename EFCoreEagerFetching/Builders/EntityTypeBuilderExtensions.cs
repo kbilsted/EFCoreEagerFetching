@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
-namespace EFCoreEagerFetching.Builders
+namespace EFCoreEagerFetching
 {
     public static class EntityTypeBuilderExtensions
     {
