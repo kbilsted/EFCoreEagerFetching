@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>EFCoreEagerFetching</id>
+    <version>1.0.0</version>
+    <description>
+      A helper library to specify eager fetching as one or several configurations
+    </description>
+    <releaseNotes>
+  </releaseNotes>
+    <tags>EntityFrameWork EFCORE EF</tags>
+    <copyright>Copyright 2018-</copyright>
+    <language>en-US</language>
+    <authors>Kasper B. Graversen</authors>
+    <projectUrl>https://github.com/kbilsted/EFCoreEagerFetching</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <dependencies />
+  </metadata>
+</package>
